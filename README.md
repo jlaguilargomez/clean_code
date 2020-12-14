@@ -1,6 +1,7 @@
 # Curso
 
 [Course](https://indra.udemy.com/course/writing-clean-code/learn/lecture/23110862#overview)
+
 [Notion](https://www.notion.so/jlaguilargomezdevelop/Clean-Code-9ea680d7a42c4d5280f83bcb0c5acdf4)
 
 ---
